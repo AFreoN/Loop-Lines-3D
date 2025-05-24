@@ -1,0 +1,10 @@
+# Unity metadata & scenes → dont count in language stats
+*.meta      linguist-vendored
+*.unity     linguist-vendored
+*.prefab    linguist-vendored
+*.asset     linguist-vendored
+*.mat       linguist-vendored
+*.shader    linguist-vendored
+*.cginc     linguist-vendored
+*.asmdef    linguist-vendored
+# anything else you don’t want counted
