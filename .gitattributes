@@ -1,4 +1,6 @@
 # Unity metadata & scenes → dont count in language stats
+Packages/* linguist-vendored
+ProjectSettings/* linguist-vendored
 *.meta      linguist-vendored
 *.unity     linguist-vendored
 *.prefab    linguist-vendored
