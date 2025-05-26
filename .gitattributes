@@ -1,6 +1,9 @@
 # Unity metadata & scenes → dont count in language stats
-Packages/* linguist-vendored
-ProjectSettings/* linguist-vendored
+Assets/FacebookSDK/** linguist-vendored
+Assets/GameAnalytics/** linguist-vendored
+Assets/PlayServicesResolveer/** linguist-vendored
+Packages/* linguist-generated
+ProjectSettings/* linguist-generated
 *.meta      linguist-vendored
 *.unity     linguist-vendored
 *.prefab    linguist-vendored
